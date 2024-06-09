@@ -1,6 +1,6 @@
 # ChatRoom
  
-Console Chat Room
+Console Chat Room:
 A simple console-based chat room implemented in Java.
 
 Features:
